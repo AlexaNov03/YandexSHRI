@@ -1,0 +1,7 @@
+.table__cell {
+  padding: 16px;
+  border-radius: 40px;
+  background-color: var(--accent-bg-color);
+  display: flex;
+  justify-content: space-between;
+}

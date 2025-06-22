@@ -1,0 +1,16 @@
+.loader {
+  border: 2px solid var(--loader-secondary-border-color);
+  border-top: 2px solid var(--loader-accent-border-color);
+  border-radius: 50%;
+  animation: loader-animation 1s infinite;
+}
+
+@keyframes loader-animation {
+  from {
+    transform: rotate(0deg);
+  }
+
+  to {
+    transform: rotate(360deg);
+  }
+}

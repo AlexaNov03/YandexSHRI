@@ -1,0 +1,15 @@
+.button__container {
+  padding: 14px 10px;
+  display: flex;
+  gap: 16px;
+}
+
+.button__leftIcon {
+  display: flex;
+  align-items: center;
+}
+
+.button__text {
+  display: flex;
+  align-items: center;
+}

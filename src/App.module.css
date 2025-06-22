@@ -1,0 +1,8 @@
+.app__container {
+  background-color: var(--main-bg-color);
+  min-height: 100vh;
+  padding: 40px;
+  display: flex;
+  flex-direction: column;
+  gap: 80px;
+}

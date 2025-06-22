@@ -1,0 +1,9 @@
+.nav__container ul {
+  display: flex;
+  gap: 20px;
+}
+
+.nav__container ul li {
+  display: flex;
+  align-items: center;
+}

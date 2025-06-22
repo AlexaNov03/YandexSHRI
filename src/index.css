@@ -1,0 +1,68 @@
+@import url(/styles/Roboto/fonts.css);
+
+:root {
+  --main-bg-color: #fce2ff;
+  --accent-bg-color: #cb81ff;
+  --done-bg-color: #d4fae6;
+  --pending-bg-color: #eacdff;
+  --secondary-bg-color: #ffffff;
+
+  --button-success-color: #2ae881;
+  --button-disabled-color: #c0c0c0;
+  --button-download-color: #fce300;
+  --button-primary-color: #201b10;
+  --button-accent-color: #cb81ff;
+  --button-secondary-color: #ffffff;
+  --button-danger-color: #ff5f00;
+  --button-done-color: #d4fae6;
+
+  --text-primary-color: #201b10;
+  --text-secondary-color: #ffffff;
+  --text-danger-color: #ff5f00;
+  --text-accent-color: #cb81ff;
+  --text-disabled-color: #787878;
+
+  --border-danger-color: #ff5f00;
+  --border-primary-color: #201b10;
+
+  --loader-secondary-border-color: #ffffff;
+  --loader-accent-border-color: #2ae881;
+}
+
+html {
+  font-family: "Roboto";
+}
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+}
+
+ul,
+ol {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+a,
+a:hover,
+a:focus,
+a:active {
+  text-decoration: none;
+  color: inherit;
+}
+
+button {
+  margin: 0;
+  padding: 0;
+  border: none;
+  background: none;
+  font: inherit;
+  color: inherit;
+  cursor: pointer;
+  appearance: none;
+  -webkit-appearance: none;
+  border-radius: 0;
+}

@@ -1,0 +1,22 @@
+.area-pending {
+  background-color: var(--pending-bg-color);
+}
+
+.area-done {
+  background-color: var(--done-bg-color);
+}
+
+.area-error {
+  border: 1px solid var(--border-danger-color);
+}
+
+.area-default {
+  border: 1px solid var(--border-primary-color);
+}
+
+.area__container {
+  border-radius: 1rem;
+  display: flex;
+  padding: 60px 0px;
+  justify-content: center;
+}

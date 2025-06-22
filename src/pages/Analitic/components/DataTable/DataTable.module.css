@@ -1,0 +1,21 @@
+.table__container {
+  display: grid;
+  column-gap: 40px;
+  row-gap: 10px;
+  grid-template-columns: repeat(2, 1fr);
+}
+
+.table__cell {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-color: var(--secondary-bg-color);
+  border-radius: 10px;
+}
+
+.table__cellRow {
+  display: flex;
+  justify-content: center;
+}

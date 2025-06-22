@@ -1,0 +1,15 @@
+.gen__container {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.gen__title {
+  display: flex;
+  justify-content: center;
+}
+
+.gen__logic {
+  display: flex;
+  justify-content: center;
+}

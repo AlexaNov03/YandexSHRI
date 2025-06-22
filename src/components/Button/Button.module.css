@@ -1,0 +1,35 @@
+.color-primary {
+  background-color: var(--button-primary-color);
+}
+
+.color-accent {
+  background-color: var(--button-accent-color);
+}
+
+.color-secondary {
+  background-color: var(--button-secondary-color);
+}
+
+.color-done {
+  background-color: var(--button-done-color);
+}
+
+.color-danger {
+  background-color: var(--button-danger-color);
+}
+
+.color-success {
+  background-color: var(--button-success-color);
+}
+
+.color-disabled {
+  background-color: var(--button-disabled-color);
+}
+
+.color-download {
+  background-color: var(--button-download-color);
+}
+
+.button__container {
+  padding: 15px 27px;
+}

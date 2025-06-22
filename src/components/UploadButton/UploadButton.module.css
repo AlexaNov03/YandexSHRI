@@ -1,0 +1,16 @@
+.uploadButton__container {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.uploadButton__content {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+}
+
+.uploadButton__sign {
+  display: flex;
+  justify-content: center;
+}

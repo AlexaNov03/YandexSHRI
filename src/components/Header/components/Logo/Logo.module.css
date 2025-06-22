@@ -1,0 +1,12 @@
+.logo__container {
+  display: flex;
+  align-items: center;
+  gap: 40px;
+}
+
+.logo__sign {
+  background-color: var(--accent-bg-color);
+  align-items: center;
+  line-height: 1;
+  padding: 6px;
+}

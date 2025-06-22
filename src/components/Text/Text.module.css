@@ -1,0 +1,19 @@
+.color-primary {
+  color: var(--text-primary-color);
+}
+
+.color-accent {
+  color: var(--text-accent-color);
+}
+
+.color-danger {
+  color: var(--text-danger-color);
+}
+
+.color-secondary {
+  color: var(--text-secondary-color);
+}
+
+.color-disabled {
+  color: var(--text-disabled-color);
+}

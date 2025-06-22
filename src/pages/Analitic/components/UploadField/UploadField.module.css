@@ -1,0 +1,25 @@
+.upload__container {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.upload__title {
+  display: flex;
+  justify-content: center;
+}
+
+.upload__submitButton {
+  display: flex;
+  justify-content: center;
+}
+
+.upload__input {
+  display: none;
+}
+
+.upload__sign {
+  padding: 50px 0px;
+  display: flex;
+  justify-content: center;
+}
